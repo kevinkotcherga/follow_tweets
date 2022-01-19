@@ -6,7 +6,7 @@ This [template](https://jasonfleetwoodboldt.com/courses/stepping-up-rails/rails-
 
 ```
 clone it : git clone git@github.com:kevinkotcherga/template_rails7_bootstrap_sass_importmap.git
-remove the .git folder
+remove the .git folder : rm -rf .git 
 git init .
 git add .
 git commit -m "First commit"
